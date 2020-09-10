@@ -25,7 +25,7 @@ TV_reg = 0; % amount of TV regularization
 xy_pad = 50; % lateral volume extension
 z_pad = 8; % axial volume extension
 outer_iter = 20; % number of outer iterations of EV-3D
-inner_iter = 80; % number of innter iterations of EV-3D
+inner_iter = 80; % number of inner iterations of EV-3D
 
 rl_iter = 200; % number of iteratins for traditional RL-3D
 
