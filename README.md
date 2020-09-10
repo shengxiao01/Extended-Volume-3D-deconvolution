@@ -6,7 +6,7 @@ S. Xiao, H. Gritton, H. Tseng, D. Zemel, X. Han, J. Mertz, “[**High-contrast m
 If you find this code usefule please cite our corresponding paper.
 
 ### Running the program
-MATLAB is required for running the program. In MATLAB, run:
+MATLAB with Image Processing Toolbox is required for running the program. Parallel Computing Toolbox is required for GPU acceleration. In MATLAB, run:
 ```
 main.m;
 ```
