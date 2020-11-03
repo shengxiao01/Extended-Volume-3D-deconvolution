@@ -3,7 +3,7 @@
 %
 % The following code reproduces the main results of Fig. 2 from paper 
 % "High-contrast multifocus microscopy with a single camera and z-splitter
-% prism", doi: https://doi.org/10.1101/2020.08.04.236661
+% prism", Optica 7, 1477-1486 (2020) doi: https://doi.org/10.1364/OPTICA.404678
 %
 % by Sheng Xiao, 09/10/2020
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
